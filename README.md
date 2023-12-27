@@ -2,4 +2,4 @@
 메이플스토리 월드 엔진 공부용
 
 
-오늘코딩 : https://youtu.be/FoiFdToCPDc - 뱀서라이크 강의
+오늘코딩 : https://youtu.be/FoiFdToCPDc - 뱀서라이크 강의 : 1-4강 까지 봤음
