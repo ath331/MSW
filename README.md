@@ -3,3 +3,5 @@
 
 
 오늘코딩 : https://youtu.be/FoiFdToCPDc - 뱀서라이크 강의 : 1-4강 까지 봤음
+
+https://youtu.be/FoiFdToCPDc?t=1231
